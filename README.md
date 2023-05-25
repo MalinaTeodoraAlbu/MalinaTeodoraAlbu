@@ -14,35 +14,19 @@
   <li>⚡ Fun fact: I love expressing my creativity through art and creating visual representations of my ideas.</li>
 </ul>
 
-<h2>Skills</h2>
-<h3>Front-end technologies:</h3>
+
+<h3>Tech Stack:</h3>
 <ul>
-  <li> HTML5</li>
-  <li> CSS3</li>
-  <li> JavaScript</li>
-  <li> React</li>
-  <li> Redux</li>
+  <li>Java</li>
+  <li>C#</li>
+  <li>Python</li>
+  <li>C/C++</li>
+  <li>SQL</li>
+  <li>HTML</li>
+  <li>REACT</li>
+  <li>JAVASCRIPT</li>
 </ul>
 
-<h3>Back-end technologies:</h3>
-<ul>
-  <li> Node.js</li>
-  <li> Express</li>
-  <li> MongoDB</li>
-</ul>
-
-<h3>Version control:</h3>
-<ul>
-  <li> Git</li>
-  <li> GitHub</li>
-</ul>
-
-<h3>Other tools:</h3>
-<ul>
-  <li> Visual Studio Code</li>
-  <li> Figma</li>
-  <li> Eclipse</li>
-</ul>
 
 <h2>Let's Connect!</h2>
 <p>
