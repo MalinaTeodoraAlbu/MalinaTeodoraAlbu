@@ -1,5 +1,5 @@
 <h1>Hello, World! 👋</h1>
-<p> I'm Malina, I am in 3st year of study at the Faculty of Cybernetics, Statistics and Informatics at Bucharest University of Economic Studies. I am a hardworking, creative and perfectionist person, wanting to obtain as much knowledge as possible in IT.</p>
+<p> I'm Malina, I am in 3rd year of study at the Faculty of Cybernetics, Statistics and Informatics at Bucharest University of Economic Studies. I am a hardworking, creative and perfectionist person, wanting to obtain as much knowledge as possible in IT.</p>
 <div style="display: flex; justify-content: flex-end;">
   <img src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif" alt="Cat" style="width: 200px; height: 200px;">
 </div>
