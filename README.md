@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/albu-m%C4%83lina-teodora-4967b0202/">
     <img src="https://img.icons8.com/fluency/48/null/linkedin.png" alt="LinkedIn" style="width: 48px; height: 48px; margin-right: 5px;">
   </a>
-  <a href="https://www.linkedin.com/in/albu-m%C4%83lina-teodora-4967b0202/](https://www.instagram.com/mali.26/)">
+  <a href="https://www.instagram.com/mali.26/">
     <img src="https://img.icons8.com/fluency/48/null/instagram-new.png" alt="Instagram" style="width: 48px; height: 48px; margin-right: 5px;">
   </a>
 </p>
