@@ -10,7 +10,6 @@
   <li>👯 I'm open to collaborating on interesting projects and contributing to open-source initiatives.</li>
   <li>💬 Ask me about anything related to web development, JavaScript, and software engineering in general. I'm always happy to share knowledge and discuss ideas.</li>
   <li>📫 You can reach me through my LinkedIn profile or by sending me an email at albumalina26@gmail.com</li>
-  <li>😄 Pronouns: She/Her.</li>
   <li>⚡ Fun fact: I love expressing my creativity through art and creating visual representations of my ideas.</li>
 </ul>
 
