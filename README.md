@@ -18,12 +18,13 @@
 <ul>
   <li>Java</li>
   <li>C#</li>
+  <li>JavaScript</li>
+  <li>REACT</li>
   <li>Python</li>
   <li>C/C++</li>
   <li>SQL</li>
   <li>HTML</li>
-  <li>REACT</li>
-  <li>JAVASCRIPT</li>
+ 
 </ul>
 
 
